@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>889699712720-vk7scm4c4lsg5l62mv8ljpp7r3pnj1lp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.889699712720-vk7scm4c4lsg5l62mv8ljpp7r3pnj1lp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>889699712720-88tu91u9vec7opb0qojsqlbfsjs8fdr2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjGBiRLPH2vmxFJz-Xs3XzRwfJMoLT9z4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>889699712720</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.juOffices</string>
+	<key>PROJECT_ID</key>
+	<string>ju-office-hours</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ju-office-hours.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:889699712720:ios:bfba637cb8de12fab7a8d5</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "889699712720",
+    "project_id": "ju-office-hours",
+    "storage_bucket": "ju-office-hours.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889699712720:android:d06a1db5661c1bcab7a8d5",
+        "android_client_info": {
+          "package_name": "com.example.ju_offices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889699712720-88tu91u9vec7opb0qojsqlbfsjs8fdr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ju_offices",
+            "certificate_hash": "c8983a8c0c906018af5af6f2872f617f664c4c9a"
+          }
+        },
+        {
+          "client_id": "889699712720-sf6tqhhm84ug3ai7scdqo67t27rlhmo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLCQcs7Ki2JWdAzRg42WNg4SoL6NaLQXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889699712720-sf6tqhhm84ug3ai7scdqo67t27rlhmo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "889699712720-vk7scm4c4lsg5l62mv8ljpp7r3pnj1lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.juOffices"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
